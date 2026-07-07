@@ -1,5 +1,5 @@
 /* PoolBalance — service worker (hors-ligne réel) */
-const CACHE = 'poolbalance-v2-2026-07-06';
+const CACHE = 'poolbalance-v3-2026-07-07';
 const SHELL = [
   './',
   './index.html',
